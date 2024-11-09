@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.1",
+    "moon": "^1.0.0-beta.7",
+    "node": "^22.11.0"
+  }
+}
